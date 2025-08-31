@@ -10,3 +10,13 @@ testRun
 .project
 .classpath
 bin
+.DS_Store
+src/.DS_Store
+src/main/.DS_Store
+src/main/resources/.DS_Store
+src/main/resources/dlc/.DS_Store
+src/main/resources/dashboard/.DS_Store
+src/main/resources/dlc/IRAO/.DS_Store
+src/main/resources/dlc/IRAO/CGEAR/.DS_Store
+src/main/resources/dlc/IRAO/ZUKAN/.DS_Store
+src/main/resources/dlc/IRAO/CGEAR2/.DS_Store
