@@ -23,7 +23,7 @@ For users: [Quick Setup Guide](https://github.com/kuroppoi/entralinked/wiki/Setu
 - Java 17 Development Kit
 
 ```
-git clone --recurse-submodules https://github.com/kuroppoi/entralinked.git
+git clone --recurse-submodules https://github.com/UmbrellaIncorperated/entralinked-legality.git
 cd entralinked
 ./gradlew dist
 ```
